@@ -6,6 +6,7 @@ class Lake < Formula
   depends_on :x11
   depends_on "bdw-gc"
   depends_on "crystal-lang"
+
   def install
     bin.install "lake"
     # system "./configure", "--disable-debug",
