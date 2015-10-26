@@ -2,7 +2,7 @@ class Lake < Formula
   desc "rake-inspired tool in Crystal for tasks management"
   homepage "https://github.com/adlerhsieh/lake"
   url "https://github.com/adlerhsieh/lake/archive/0.2.0.tar.gz"
-  sha256 "e85c79f80c4616598b672340a4beed79769c5a2f94c692349133995d8bc0bf59"
+  sha256 "7e98f3a0d9dbc7e5997f3cf59a97c95fc9c2228c6df40f034fca8127b8786d11"
   depends_on :x11
   depends_on "bdw-gc"
   depends_on "crystal-lang"
